@@ -1,6 +1,6 @@
 # Hi there, I'm [Rodrick](https://rodrickc.crd.co/) 👋
 Im a Web Developer, Digital Artist and an avid WebComics & Manga reader.
-- 😄 I’m currently wasting my time.
+- 😄 I’m currently Chilling.
 - 🔭 I mainly work with ReactJS.
 - 🌱 I wanna learn Game Development.
 - 👯 I like to contribute on open source projects.
