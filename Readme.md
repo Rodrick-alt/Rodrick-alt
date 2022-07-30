@@ -4,7 +4,7 @@ Im a Web Developer, Digital Artist and an avid Web-comics & Manga reader.
 - 🔭 I mainly work with ReactJS.
 - 🌱 I wanna learn Game Development.
 - 🤔 I’m constantly looking for opportunities to grow as a developer.
-- ⚡ Fun fact: My favorite band is TallyHall.
+- ⚡ Fun fact: TallyHall is my Favorite Band.
 
 ## Stats!
  [![Rodrick.C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrick-alt&theme=tokyonight))](https://github.com/Rodrick-alt/github-readme-stats)
