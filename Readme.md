@@ -1,7 +1,7 @@
 # Hi there, I'm [Rodrick](https://rodrickc.crd.co/) 👋
-Web Developer | Digital Artist | WebComics & Manga reader
+Web Developer | Hobby Digital Artist | WebComics & Manga reader
 - 🔭 I mainly work with ReactJS.
-- 🌱 I wanna learn Game Development.
+- 🌱 I wanna learn Game Development and Animation.
 - 🤔 I’m constantly looking for opportunities to grow as a developer.
 - ⚡ Fun fact: TallyHall is my Favorite Band.
 
