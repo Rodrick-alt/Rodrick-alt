@@ -1,4 +1,4 @@
-# Hi there, I'm [Rodrick](https://rodrickc.crd.co/) 👋
+# Hi there, I'm [Rodrick](https://www.rodrickchipengu.com/) 👋
 Web Developer | Hobby Digital Artist | WebComics & Manga reader
 - 🔭 I mainly work with ReactJS.
 - 🌱 I wanna learn Game Development and Animation.
